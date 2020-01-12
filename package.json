@@ -21,6 +21,7 @@
     "serverless-offline": "^5.3.3"
   },
   "dependencies": {
+    "react-stripe-elements": "^6.0.1",
     "stripe": "^7.15.0",
     "uuid": "^3.3.3"
   }
